@@ -1,1 +1,3 @@
-###python manage.py startapp <klasör adı>
+>python manage.py startapp <klasör adı>
+>python manage.py migrate
+>python manage.py makemigrations
