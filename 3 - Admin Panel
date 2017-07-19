@@ -1,0 +1,2 @@
+###localhost:8000/admin
+>python manage.py createsuperuser ###kullanıcı yaratmak için
