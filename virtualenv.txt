@@ -1,0 +1,5 @@
+###virtualenv yaratmak istediğin dizin içindeyken command prompt'a:
+
+>virtualenv venv ###venv, virtualenv'in kurulacağı dizinin adı. Başka bir isim de alabilir.
+>venv\Scripts\activate ###virtualenv'i başlatmak için.
+>deactivate ###virtualenv'den çıkmak için.
